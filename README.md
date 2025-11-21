@@ -11,4 +11,4 @@ The app uses *Hive* for task storage and *Provider* for state management. Simple
 
 You can download the .apk by checking the releases of this repository !
 
-![Image Alt](https://github.com/sweethehe/do_it_revisited/blob/3dbc6af36ef459514aa2b37aac70dc71c6bddef5/do_it_prez.png)
+![Image Alt](https://github.com/sweethehe/do_it_revisited/blob/main/Do_it_presentation.png)
